@@ -1,6 +1,6 @@
 ## Olá Mundo! Eu sou o Julio Quevedo 🖐️
 
-Sou [seu nome], um(a) entusiasta de [suas áreas de interesse] com paixão por [suas paixões]. 
+um entusiasta na Programação com paixão por Inteligência Artificial. 
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julio.quevdo/)
