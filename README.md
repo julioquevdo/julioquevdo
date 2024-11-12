@@ -10,9 +10,9 @@ Um entusiasta de Programação com paixão por Inteligência Artificial, Machine
 ---
 
 ### 👨‍💻 Contribuições e Comunidade
-- Contribuidor em projetos de código aberto relacionados a ciência de dados
-- Participante ativo no Kaggle, resolvendo desafios e competições de Machine Learning
-- Presente em meetups e hackathons de programação e IA
+- Contribuidor em projetos relacionados a ciência de dados
+- Participante ativo no Kaggle, resolvendo desafios que envolvam Dados e Machine Learning
+- Presente em meetups e imersões de programação e IA
 
 ---
 
