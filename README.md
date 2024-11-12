@@ -33,11 +33,4 @@ Um entusiasta de Programação com paixão por Inteligência Artificial, Machine
 
 ---
 
-### 📊 Estatísticas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioquevdo&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julioquevdo&show_icons=true&theme=radical)
-
----
-
 Sinta-se à vontade para explorar meus repositórios e compartilhar conhecimentos! 🚀
